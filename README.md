@@ -1,6 +1,12 @@
 # Standard-ML-Stack-Calculator
 The Homework of Osaka University Standard ML Stack Calculator
 
+# Warning（警告）
+* Don't use this whole source code in repository to submit your homework.
+* It is all your fault if you use this code just copy&paste.
+* このソースコードをあなたの課題に使わないでください。
+* コピペして、Fを取ることは、あなたの責任です。
+
 ## HomeWork 1,2
 * pre-Implemented simple stack sml calculator by professor.
 
