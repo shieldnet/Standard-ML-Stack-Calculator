@@ -1,5 +1,6 @@
 # Standard-ML-Stack-Calculator
 The Homework of Osaka University Standard ML Stack Calculator
+阪大プログラミングD（プロD）肥後先生の講義のSML課題です
 
 # Warning（警告）
 * Don't use this whole source code in repository to submit your homework.
